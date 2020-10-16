@@ -1,0 +1,37 @@
+[
+    {
+      "userId": 1,
+      "firstName": "Mokuska",
+      "lastName": "Mokuska",
+      "phoneNumber": "123456",
+      "emailAddress": "mokuska@world.net"
+    },
+    {
+      "userId": 2,
+      "firstName": "Juli",
+      "lastName": "Nagy",
+      "phoneNumber": "123456",
+      "emailAddress": "nagyjuli@world.net"
+    },
+    {
+      "userId": 3,
+      "firstName": "Arpad",
+      "lastName": "Kerekes",
+      "phoneNumber": "33333333",
+      "emailAddress": "kerekesarpi@world.net"
+    },
+    {
+      "userId": 4,
+      "firstName": "Szebasztian",
+      "lastName": "Szatmari",
+      "phoneNumber": "222222222",
+      "emailAddress": "szatmariszebi@world.net"
+    },
+    {
+      "userId": 5,
+      "firstName": "Marton",
+      "lastName": "Zalai",
+      "phoneNumber": "111111111",
+      "emailAddress": "zalaimarton@world.net"
+    }
+  ]
